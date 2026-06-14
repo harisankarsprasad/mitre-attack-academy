@@ -1,4 +1,4 @@
-# ATT&CK Academy
+Mitre ATT&CK Academy
 
 **Learn MITRE ATT&CK the way attackers think** — a gamified, single-file web app that walks you through a full intrusion, tactic by tactic, then drills you with quizzes and a realistic security-interview simulator.
 
@@ -10,6 +10,7 @@
 > Built by **Harisankar S Prasad** — [LinkedIn](https://www.linkedin.com/in/harisankarsprasad)
 
 ---
+![ATT&CK Academy](Screenshot.png)
 
 ## 🔗 Live demo
 
@@ -46,11 +47,6 @@ It's designed for people studying for **SOC analyst, threat-intelligence and vul
 ## Run it
 
 **Locally:** open `attack-academy.html` in any modern browser. (Internet helps — the globe and fonts load from a CDN; offline it falls back gracefully.)
-
-**Host it (GitHub Pages):**
-1. Put `attack-academy.html`, `index.html`, `README.md` and `LICENSE` in the repository.
-2. **Settings → Pages → Deploy from a branch → main → /(root)**.
-3. Open the published URL. `index.html` redirects to the app.
 
 ## Credits & data
 
